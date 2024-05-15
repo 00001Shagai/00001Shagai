@@ -3,7 +3,7 @@
   <head>
     <style>
       p.ex1 {
-        border: 1px solid blue;
+        border: 1px solid red;
         outline-style: solid;
         outline-color:rgb(0, 242, 255)w;
         outline-width: thin;
